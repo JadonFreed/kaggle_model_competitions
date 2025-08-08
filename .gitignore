@@ -22,6 +22,6 @@ __pycache__/
 *.log
 
 # Data files (optional, uncomment if you have big data)
-# *.csv
-# *.parquet
+*.csv
+*.parquet
 .venv/
