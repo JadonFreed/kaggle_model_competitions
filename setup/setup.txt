@@ -1,0 +1,1 @@
+source ~/VSCode_repos/venv/bin/activate
